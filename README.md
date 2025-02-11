@@ -21,5 +21,5 @@ Future Enhancements
 Integration of deep learning models to enhance accuracy.
 Expansion of the dataset with additional student attributes.
 Implementation of automated feature selection for better generalization.
-This project provides a data-driven approach to predicting student placements, offering valuable insights for students, educators, and career counselors. 🚀
+This project provides a data-driven approach to predicting student placements, offering valuable insights for students, educators, and career counselors.
 
